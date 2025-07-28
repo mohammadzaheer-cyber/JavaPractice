@@ -9,7 +9,7 @@ public class SinglyLinkedListTest {
 //        list.addLast(30);
 //        list.addLast(40);
 
-        list.addFirst(50);
+//        list.addFirst(50);
 //        list.addFirst(60);
 //        list.addFirst(70);
 
